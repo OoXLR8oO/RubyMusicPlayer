@@ -1,0 +1,121 @@
+4
+Seven Rings In Hand (Sonic & The Secret Rings OST)
+Runblebee, Steve Conte
+4
+images/Sevenringsinhandthumb.jpg
+14
+Seven Rings In Hand
+sounds/01-Seven-Rings-In-Hand.mp3
+The Lost Prologue
+sounds/02-The-Lost-Prologue.mp3
+Let The Speed Mend It
+sounds/03-Let-The-Speed-Mend-It.mp3
+Poison Spear 
+sounds/04-Poison-Spear.mp3
+The Wicked Wild
+sounds/05-The-Wicked-Wild.mp3
+The Palace That Was Found	
+sounds/06-The-Palace-That-Was-Found.mp3
+How It Started
+sounds/07-How-It-Started.mp3
+High And Broken
+sounds/08-High-And-Broken.mp3
+No Way Through
+sounds/09-No-Way-Through.mp3
+Blue On The Run
+sounds/10-Blue-On-The-Run.mp3
+The White Of Sky
+sounds/11-The-White-Of-Sky.mp3
+Unawakening Float
+sounds/12-Unawakening-Float.mp3
+It Has Come To This
+sounds/13-It-Has-Come-To-This.mp3
+Worth A Chance
+sounds/14-Worth-A-Chance.mp3
+Sonic & SEGA All-Stars Racing OST
+SEGA Music
+6
+images/sasasr_cover.png
+11
+Main Menu
+sounds/15-Main-Menu.mp3
+So Much More
+sounds/16-So-Much-More.mp3
+Seaside Hill
+sounds/17-Seaside-Hill.mp3
+Tumbling Xylophone
+sounds/18-Tumbling-Xylophone.mp3
+Casino Park
+sounds/19-Casino-Park.mp3
+Back 2 Back
+sounds/20-Back-2-Back.mp3
+Samba de Janeiro
+sounds/21-Samba-de-Janeiro.mp3
+The Concept Of Love
+sounds/22-The-Concept-Of-Love.mp3
+Hope Without A Doubt
+sounds/23-Hope-Without-A-Doubt.mp3
+Monkey Island
+sounds/24-Monkey-Island.mp3
+Final Fortress
+sounds/25-Final-Fortress.mp3
+Mario Strikers: Charged Football Character Themes
+Mike Peacock, Darren Radtke, Chad York, Scott McFadyn, Davor Vulama
+6
+images/mscf_cover.jpg
+12
+Mario's Theme
+sounds/26-Mario's-Theme.mp3
+Peach's Theme
+sounds/27-Peach's-Theme.mp3
+DK's Theme
+sounds/28-DK's-Theme.mp3
+Waluigi's Theme
+sounds/29-Waluigi's-Theme.mp3
+Luigi's Theme
+sounds/30-Luigi's-Theme.mp3
+Wario's Theme
+sounds/31-Wario's-Theme.mp3
+Bowser's Theme
+sounds/32-Bowser's-Theme.mp3
+Yoshi's Theme
+sounds/33-Yoshi's-Theme.mp3
+Daisy's Theme
+sounds/34-Daisy's-Theme.mp3
+Bowser Jr's Theme
+sounds/35-Bowser-Jr.'s-Theme.mp3
+Diddy Kong's Theme
+sounds/36-Diddy-Kong's-Theme.mp3
+Petey Piranha's Theme
+sounds/37-Petey-Piranha's-Theme.mp3
+Spectrobes Origins OST
+Chamy Ishi, Rei Kondoh, Toshiki Aida
+5
+images/spectrobes_cover.jpg
+13
+Title Screen
+sounds/38-Title-Screen.mp3
+Krawl Battle Theme
+sounds/39-Krawl-Battle.mp3
+Haven Village Destroyed
+sounds/40-Haven-Village-Destroyed.mp3
+Wyterra
+sounds/41-Wyterra.mp3
+NPP Cruiser
+sounds/42-NPP-Cruiser.mp3
+Mini Boss Theme
+sounds/43-Mini-Boss.mp3
+Kamtoga's Camp
+sounds/44-Kamtoga's-Camp.mp3
+Menahat
+sounds/45-Menahat.mp3
+Krux's Theme
+sounds/46-Krux's-Theme.mp3
+Pegatinum
+sounds/47-Pegatinum.mp3
+Krawlosphere
+sounds/48-Krawlosphere.mp3
+Krawlosphere Krawl Battle Theme
+sounds/49-Krawlosphere-Krawl-Battle.mp3
+Final Boss: Krux & Terragan
+sounds/50-Final-Battle-Krux-and-Terragan.mp3
